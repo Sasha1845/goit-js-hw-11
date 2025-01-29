@@ -6,7 +6,7 @@ import { handleSuccess } from './render-function.js';
 import { refs } from '../main.js';
 
 const BASE_URL = 'https://pixabay.com/api/';
-const API_KEY = '48226781-c314bf294542f2e13595e23de';
+const API_KEY = '48520177-886e05d1f6eae0084b8a6e7aa';
 
 export function fetchImages(value) {
   return fetch(
